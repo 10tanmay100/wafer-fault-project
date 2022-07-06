@@ -188,4 +188,94 @@ Logging timestamp is 2022-07-06 19:29:42.659049 and df createdLogging timestamp 
        ...
        'Sensor-581', 'Sensor-582', 'Sensor-583', 'Sensor-584', 'Sensor-585',
        'Sensor-586', 'Sensor-587', 'Sensor-588', 'Sensor-589', 'Sensor-590'],
-      dtype='object', length=590)Logging timestamp is 2022-07-06 20:03:31.331546 and transformed
+      dtype='object', length=590)Logging timestamp is 2022-07-06 20:03:31.331546 and transformedLogging timestamp is 2022-07-06 20:19:43.564832 and E:/ml project/classification project/Wafer Fault Detection Project/Training_files/good_data/wafer_07012020_041011.csv readLogging timestamp is 2022-07-06 20:19:43.596832 and df createdLogging timestamp is 2022-07-06 20:19:43.604832 and filled null 0Logging timestamp is 2022-07-06 20:19:43.612832 and wafer names createdLogging timestamp is 2022-07-06 20:19:43.621406 and wafer names droppedLogging timestamp is 2022-07-06 20:19:43.628447 and Good/bad droppedLogging timestamp is 2022-07-06 20:19:43.637416 and unnmae droppedLogging timestamp is 2022-07-06 20:19:43.646445 and Index(['Sensor-1', 'Sensor-2', 'Sensor-3', 'Sensor-4', 'Sensor-5', 'Sensor-6',
+       'Sensor-7', 'Sensor-8', 'Sensor-9', 'Sensor-10',
+       ...
+       'Sensor-581', 'Sensor-582', 'Sensor-583', 'Sensor-584', 'Sensor-585',
+       'Sensor-586', 'Sensor-587', 'Sensor-588', 'Sensor-589', 'Sensor-590'],
+      dtype='object', length=590)Logging timestamp is 2022-07-06 20:19:43.659164 and transformedLogging timestamp is 2022-07-06 20:19:43.752164 and E:/ml project/classification project/Wafer Fault Detection Project/Training_files/good_data/wafer_13012020_090817.csv readLogging timestamp is 2022-07-06 20:19:43.787164 and df createdLogging timestamp is 2022-07-06 20:19:43.795162 and filled null 0Logging timestamp is 2022-07-06 20:19:43.802163 and wafer names createdLogging timestamp is 2022-07-06 20:19:43.811163 and wafer names droppedLogging timestamp is 2022-07-06 20:19:43.819163 and Good/bad droppedLogging timestamp is 2022-07-06 20:19:43.829163 and unnmae droppedLogging timestamp is 2022-07-06 20:19:43.837164 and Index(['Sensor-1', 'Sensor-2', 'Sensor-3', 'Sensor-4', 'Sensor-5', 'Sensor-6',
+       'Sensor-7', 'Sensor-8', 'Sensor-9', 'Sensor-10',
+       ...
+       'Sensor-581', 'Sensor-582', 'Sensor-583', 'Sensor-584', 'Sensor-585',
+       'Sensor-586', 'Sensor-587', 'Sensor-588', 'Sensor-589', 'Sensor-590'],
+      dtype='object', length=590)Logging timestamp is 2022-07-06 20:19:43.850164 and transformedLogging timestamp is 2022-07-06 20:19:43.879162 and E:/ml project/classification project/Wafer Fault Detection Project/Training_files/good_data/wafer_16012020_051629.csv readLogging timestamp is 2022-07-06 20:19:43.910164 and df createdLogging timestamp is 2022-07-06 20:19:43.918163 and filled null 0Logging timestamp is 2022-07-06 20:19:43.926163 and wafer names createdLogging timestamp is 2022-07-06 20:19:43.934164 and wafer names droppedLogging timestamp is 2022-07-06 20:19:43.942162 and Good/bad droppedLogging timestamp is 2022-07-06 20:19:43.950164 and unnmae droppedLogging timestamp is 2022-07-06 20:19:43.958162 and Index(['Sensor-1', 'Sensor-2', 'Sensor-3', 'Sensor-4', 'Sensor-5', 'Sensor-6',
+       'Sensor-7', 'Sensor-8', 'Sensor-9', 'Sensor-10',
+       ...
+       'Sensor-581', 'Sensor-582', 'Sensor-583', 'Sensor-584', 'Sensor-585',
+       'Sensor-586', 'Sensor-587', 'Sensor-588', 'Sensor-589', 'Sensor-590'],
+      dtype='object', length=590)Logging timestamp is 2022-07-06 20:19:43.972164 and transformedLogging timestamp is 2022-07-06 20:19:44.008163 and E:/ml project/classification project/Wafer Fault Detection Project/Training_files/good_data/wafer_16012020_134553.csv readLogging timestamp is 2022-07-06 20:19:44.041164 and df createdLogging timestamp is 2022-07-06 20:19:44.049163 and filled null 0Logging timestamp is 2022-07-06 20:19:44.058165 and wafer names createdLogging timestamp is 2022-07-06 20:19:44.066162 and wafer names droppedLogging timestamp is 2022-07-06 20:19:44.074163 and unnmae droppedLogging timestamp is 2022-07-06 20:19:44.082163 and Index(['Sensor-1', 'Sensor-2', 'Sensor-3', 'Sensor-4', 'Sensor-5', 'Sensor-6',
+       'Sensor-7', 'Sensor-8', 'Sensor-9', 'Sensor-10',
+       ...
+       'Sensor-581', 'Sensor-582', 'Sensor-583', 'Sensor-584', 'Sensor-585',
+       'Sensor-586', 'Sensor-587', 'Sensor-588', 'Sensor-589', 'Sensor-590'],
+      dtype='object', length=590)Logging timestamp is 2022-07-06 20:19:44.095165 and transformedLogging timestamp is 2022-07-06 20:19:44.130162 and E:/ml project/classification project/Wafer Fault Detection Project/Training_files/good_data/wafer_17012020_125434.csv readLogging timestamp is 2022-07-06 20:19:44.162163 and df createdLogging timestamp is 2022-07-06 20:19:44.169163 and filled null 0Logging timestamp is 2022-07-06 20:19:44.178164 and wafer names createdLogging timestamp is 2022-07-06 20:19:44.185163 and wafer names droppedLogging timestamp is 2022-07-06 20:19:44.195164 and unnmae droppedLogging timestamp is 2022-07-06 20:19:44.204163 and Index(['Sensor-1', 'Sensor-2', 'Sensor-3', 'Sensor-4', 'Sensor-5', 'Sensor-6',
+       'Sensor-7', 'Sensor-8', 'Sensor-9', 'Sensor-10',
+       ...
+       'Sensor-581', 'Sensor-582', 'Sensor-583', 'Sensor-584', 'Sensor-585',
+       'Sensor-586', 'Sensor-587', 'Sensor-588', 'Sensor-589', 'Sensor-590'],
+      dtype='object', length=590)Logging timestamp is 2022-07-06 20:19:44.216162 and transformedLogging timestamp is 2022-07-06 20:19:44.251164 and E:/ml project/classification project/Wafer Fault Detection Project/Training_files/good_data/wafer_20012020_090819.csv readLogging timestamp is 2022-07-06 20:19:44.282162 and df createdLogging timestamp is 2022-07-06 20:19:44.290163 and filled null 0Logging timestamp is 2022-07-06 20:19:44.298163 and wafer names createdLogging timestamp is 2022-07-06 20:19:44.306166 and wafer names droppedLogging timestamp is 2022-07-06 20:19:44.314163 and Good/bad droppedLogging timestamp is 2022-07-06 20:19:44.322166 and unnmae droppedLogging timestamp is 2022-07-06 20:19:44.331163 and Index(['Sensor-1', 'Sensor-2', 'Sensor-3', 'Sensor-4', 'Sensor-5', 'Sensor-6',
+       'Sensor-7', 'Sensor-8', 'Sensor-9', 'Sensor-10',
+       ...
+       'Sensor-581', 'Sensor-582', 'Sensor-583', 'Sensor-584', 'Sensor-585',
+       'Sensor-586', 'Sensor-587', 'Sensor-588', 'Sensor-589', 'Sensor-590'],
+      dtype='object', length=590)Logging timestamp is 2022-07-06 20:19:44.344162 and transformedLogging timestamp is 2022-07-06 20:19:44.380163 and E:/ml project/classification project/Wafer Fault Detection Project/Training_files/good_data/wafer_20022020_090716.csv readLogging timestamp is 2022-07-06 20:19:44.408162 and df createdLogging timestamp is 2022-07-06 20:19:44.415163 and filled null 0Logging timestamp is 2022-07-06 20:19:44.424166 and wafer names createdLogging timestamp is 2022-07-06 20:19:44.431162 and wafer names droppedLogging timestamp is 2022-07-06 20:19:44.440165 and Good/bad droppedLogging timestamp is 2022-07-06 20:19:44.447162 and unnmae droppedLogging timestamp is 2022-07-06 20:19:44.456168 and Index(['Sensor-1', 'Sensor-2', 'Sensor-3', 'Sensor-4', 'Sensor-5', 'Sensor-6',
+       'Sensor-7', 'Sensor-8', 'Sensor-9', 'Sensor-10',
+       ...
+       'Sensor-581', 'Sensor-582', 'Sensor-583', 'Sensor-584', 'Sensor-585',
+       'Sensor-586', 'Sensor-587', 'Sensor-588', 'Sensor-589', 'Sensor-590'],
+      dtype='object', length=590)Logging timestamp is 2022-07-06 20:19:44.469164 and transformedLogging timestamp is 2022-07-06 20:19:44.501163 and E:/ml project/classification project/Wafer Fault Detection Project/Training_files/good_data/wafer_21012020_080913.csv readLogging timestamp is 2022-07-06 20:19:44.532164 and df createdLogging timestamp is 2022-07-06 20:19:44.539163 and filled null 0Logging timestamp is 2022-07-06 20:19:44.547162 and wafer names createdLogging timestamp is 2022-07-06 20:19:44.555163 and wafer names droppedLogging timestamp is 2022-07-06 20:19:44.563164 and Good/bad droppedLogging timestamp is 2022-07-06 20:19:44.571163 and unnmae droppedLogging timestamp is 2022-07-06 20:19:44.580164 and Index(['Sensor-1', 'Sensor-2', 'Sensor-3', 'Sensor-4', 'Sensor-5', 'Sensor-6',
+       'Sensor-7', 'Sensor-8', 'Sensor-9', 'Sensor-10',
+       ...
+       'Sensor-581', 'Sensor-582', 'Sensor-583', 'Sensor-584', 'Sensor-585',
+       'Sensor-586', 'Sensor-587', 'Sensor-588', 'Sensor-589', 'Sensor-590'],
+      dtype='object', length=590)Logging timestamp is 2022-07-06 20:19:44.594164 and transformedLogging timestamp is 2022-07-06 20:19:44.630163 and E:/ml project/classification project/Wafer Fault Detection Project/Training_files/good_data/wafer_22022020_041119.csv readLogging timestamp is 2022-07-06 20:19:44.662164 and df createdLogging timestamp is 2022-07-06 20:19:44.670162 and filled null 0Logging timestamp is 2022-07-06 20:19:44.678162 and wafer names createdLogging timestamp is 2022-07-06 20:19:44.686162 and wafer names droppedLogging timestamp is 2022-07-06 20:19:44.694163 and Good/bad droppedLogging timestamp is 2022-07-06 20:19:44.702162 and unnmae droppedLogging timestamp is 2022-07-06 20:19:44.710162 and Index(['Sensor-1', 'Sensor-2', 'Sensor-3', 'Sensor-4', 'Sensor-5', 'Sensor-6',
+       'Sensor-7', 'Sensor-8', 'Sensor-9', 'Sensor-10',
+       ...
+       'Sensor-581', 'Sensor-582', 'Sensor-583', 'Sensor-584', 'Sensor-585',
+       'Sensor-586', 'Sensor-587', 'Sensor-588', 'Sensor-589', 'Sensor-590'],
+      dtype='object', length=590)Logging timestamp is 2022-07-06 20:19:44.724167 and transformedLogging timestamp is 2022-07-06 20:19:44.761163 and E:/ml project/classification project/Wafer Fault Detection Project/Training_files/good_data/wafer_23012020_011008.csv readLogging timestamp is 2022-07-06 20:19:44.793166 and df createdLogging timestamp is 2022-07-06 20:19:44.801164 and filled null 0Logging timestamp is 2022-07-06 20:19:44.810162 and wafer names createdLogging timestamp is 2022-07-06 20:19:44.818164 and wafer names droppedLogging timestamp is 2022-07-06 20:19:44.827164 and Good/bad droppedLogging timestamp is 2022-07-06 20:19:44.835163 and unnmae droppedLogging timestamp is 2022-07-06 20:19:44.844165 and Index(['Sensor-1', 'Sensor-2', 'Sensor-3', 'Sensor-4', 'Sensor-5', 'Sensor-6',
+       'Sensor-7', 'Sensor-8', 'Sensor-9', 'Sensor-10',
+       ...
+       'Sensor-581', 'Sensor-582', 'Sensor-583', 'Sensor-584', 'Sensor-585',
+       'Sensor-586', 'Sensor-587', 'Sensor-588', 'Sensor-589', 'Sensor-590'],
+      dtype='object', length=590)Logging timestamp is 2022-07-06 20:19:44.857165 and transformedLogging timestamp is 2022-07-06 20:19:44.895162 and E:/ml project/classification project/Wafer Fault Detection Project/Training_files/good_data/wafer_23012020_041211.csv readLogging timestamp is 2022-07-06 20:19:44.927165 and df createdLogging timestamp is 2022-07-06 20:19:44.934162 and filled null 0Logging timestamp is 2022-07-06 20:19:44.943163 and wafer names createdLogging timestamp is 2022-07-06 20:19:44.950163 and wafer names droppedLogging timestamp is 2022-07-06 20:19:44.959162 and Good/bad droppedLogging timestamp is 2022-07-06 20:19:44.967163 and unnmae droppedLogging timestamp is 2022-07-06 20:19:44.975165 and Index(['Sensor-1', 'Sensor-2', 'Sensor-3', 'Sensor-4', 'Sensor-5', 'Sensor-6',
+       'Sensor-7', 'Sensor-8', 'Sensor-9', 'Sensor-10',
+       ...
+       'Sensor-581', 'Sensor-582', 'Sensor-583', 'Sensor-584', 'Sensor-585',
+       'Sensor-586', 'Sensor-587', 'Sensor-588', 'Sensor-589', 'Sensor-590'],
+      dtype='object', length=590)Logging timestamp is 2022-07-06 20:19:44.989165 and transformedLogging timestamp is 2022-07-06 20:19:45.025165 and E:/ml project/classification project/Wafer Fault Detection Project/Training_files/good_data/wafer_27012020_080911.csv readLogging timestamp is 2022-07-06 20:19:45.056163 and df createdLogging timestamp is 2022-07-06 20:19:45.064162 and filled null 0Logging timestamp is 2022-07-06 20:19:45.072162 and wafer names createdLogging timestamp is 2022-07-06 20:19:45.081164 and wafer names droppedLogging timestamp is 2022-07-06 20:19:45.089162 and Good/bad droppedLogging timestamp is 2022-07-06 20:19:45.097164 and unnmae droppedLogging timestamp is 2022-07-06 20:19:45.105163 and Index(['Sensor-1', 'Sensor-2', 'Sensor-3', 'Sensor-4', 'Sensor-5', 'Sensor-6',
+       'Sensor-7', 'Sensor-8', 'Sensor-9', 'Sensor-10',
+       ...
+       'Sensor-581', 'Sensor-582', 'Sensor-583', 'Sensor-584', 'Sensor-585',
+       'Sensor-586', 'Sensor-587', 'Sensor-588', 'Sensor-589', 'Sensor-590'],
+      dtype='object', length=590)Logging timestamp is 2022-07-06 20:19:45.118164 and transformedLogging timestamp is 2022-07-06 20:19:45.155163 and E:/ml project/classification project/Wafer Fault Detection Project/Training_files/good_data/wafer_28012020_051011.csv readLogging timestamp is 2022-07-06 20:19:45.187163 and df createdLogging timestamp is 2022-07-06 20:19:45.195164 and filled null 0Logging timestamp is 2022-07-06 20:19:45.203162 and wafer names createdLogging timestamp is 2022-07-06 20:19:45.212164 and wafer names droppedLogging timestamp is 2022-07-06 20:19:45.221162 and Good/bad droppedLogging timestamp is 2022-07-06 20:19:45.231165 and unnmae droppedLogging timestamp is 2022-07-06 20:19:45.239163 and Index(['Sensor-1', 'Sensor-2', 'Sensor-3', 'Sensor-4', 'Sensor-5', 'Sensor-6',
+       'Sensor-7', 'Sensor-8', 'Sensor-9', 'Sensor-10',
+       ...
+       'Sensor-581', 'Sensor-582', 'Sensor-583', 'Sensor-584', 'Sensor-585',
+       'Sensor-586', 'Sensor-587', 'Sensor-588', 'Sensor-589', 'Sensor-590'],
+      dtype='object', length=590)Logging timestamp is 2022-07-06 20:19:45.253163 and transformedLogging timestamp is 2022-07-06 20:19:45.288162 and E:/ml project/classification project/Wafer Fault Detection Project/Training_files/good_data/wafer_28012020_090817.csv readLogging timestamp is 2022-07-06 20:19:45.320164 and df createdLogging timestamp is 2022-07-06 20:19:45.328162 and filled null 0Logging timestamp is 2022-07-06 20:19:45.336164 and wafer names createdLogging timestamp is 2022-07-06 20:19:45.344163 and wafer names droppedLogging timestamp is 2022-07-06 20:19:45.353164 and Good/bad droppedLogging timestamp is 2022-07-06 20:19:45.362164 and unnmae droppedLogging timestamp is 2022-07-06 20:19:45.371164 and Index(['Sensor-1', 'Sensor-2', 'Sensor-3', 'Sensor-4', 'Sensor-5', 'Sensor-6',
+       'Sensor-7', 'Sensor-8', 'Sensor-9', 'Sensor-10',
+       ...
+       'Sensor-581', 'Sensor-582', 'Sensor-583', 'Sensor-584', 'Sensor-585',
+       'Sensor-586', 'Sensor-587', 'Sensor-588', 'Sensor-589', 'Sensor-590'],
+      dtype='object', length=590)Logging timestamp is 2022-07-06 20:19:45.385163 and transformedLogging timestamp is 2022-07-06 20:19:45.421164 and E:/ml project/classification project/Wafer Fault Detection Project/Training_files/good_data/wafer_28042020_031911.csv readLogging timestamp is 2022-07-06 20:19:45.452164 and df createdLogging timestamp is 2022-07-06 20:19:45.460166 and filled null 0Logging timestamp is 2022-07-06 20:19:45.468162 and wafer names createdLogging timestamp is 2022-07-06 20:19:45.476165 and wafer names droppedLogging timestamp is 2022-07-06 20:19:45.484162 and Good/bad droppedLogging timestamp is 2022-07-06 20:19:45.493164 and unnmae droppedLogging timestamp is 2022-07-06 20:19:45.501163 and Index(['Sensor-1', 'Sensor-2', 'Sensor-3', 'Sensor-4', 'Sensor-5', 'Sensor-6',
+       'Sensor-7', 'Sensor-8', 'Sensor-9', 'Sensor-10',
+       ...
+       'Sensor-581', 'Sensor-582', 'Sensor-583', 'Sensor-584', 'Sensor-585',
+       'Sensor-586', 'Sensor-587', 'Sensor-588', 'Sensor-589', 'Sensor-590'],
+      dtype='object', length=590)Logging timestamp is 2022-07-06 20:19:45.515164 and transformedLogging timestamp is 2022-07-06 20:19:45.550163 and E:/ml project/classification project/Wafer Fault Detection Project/Training_files/good_data/wafer_29012020_050617.csv readLogging timestamp is 2022-07-06 20:19:45.583164 and df createdLogging timestamp is 2022-07-06 20:19:45.591166 and filled null 0Logging timestamp is 2022-07-06 20:19:45.600163 and wafer names createdLogging timestamp is 2022-07-06 20:19:45.608163 and wafer names droppedLogging timestamp is 2022-07-06 20:19:45.617163 and Good/bad droppedLogging timestamp is 2022-07-06 20:19:45.626163 and unnmae droppedLogging timestamp is 2022-07-06 20:19:45.634164 and Index(['Sensor-1', 'Sensor-2', 'Sensor-3', 'Sensor-4', 'Sensor-5', 'Sensor-6',
+       'Sensor-7', 'Sensor-8', 'Sensor-9', 'Sensor-10',
+       ...
+       'Sensor-581', 'Sensor-582', 'Sensor-583', 'Sensor-584', 'Sensor-585',
+       'Sensor-586', 'Sensor-587', 'Sensor-588', 'Sensor-589', 'Sensor-590'],
+      dtype='object', length=590)Logging timestamp is 2022-07-06 20:19:45.648162 and transformedLogging timestamp is 2022-07-06 20:19:45.684163 and E:/ml project/classification project/Wafer Fault Detection Project/Training_files/good_data/wafer_29012020_060756.csv readLogging timestamp is 2022-07-06 20:19:45.717164 and df createdLogging timestamp is 2022-07-06 20:19:45.725163 and filled null 0Logging timestamp is 2022-07-06 20:19:45.734163 and wafer names createdLogging timestamp is 2022-07-06 20:19:45.741162 and wafer names droppedLogging timestamp is 2022-07-06 20:19:45.750164 and Good/bad droppedLogging timestamp is 2022-07-06 20:19:45.758162 and unnmae droppedLogging timestamp is 2022-07-06 20:19:45.767164 and Index(['Sensor-1', 'Sensor-2', 'Sensor-3', 'Sensor-4', 'Sensor-5', 'Sensor-6',
+       'Sensor-7', 'Sensor-8', 'Sensor-9', 'Sensor-10',
+       ...
+       'Sensor-581', 'Sensor-582', 'Sensor-583', 'Sensor-584', 'Sensor-585',
+       'Sensor-586', 'Sensor-587', 'Sensor-588', 'Sensor-589', 'Sensor-590'],
+      dtype='object', length=590)Logging timestamp is 2022-07-06 20:19:45.781163 and transformedLogging timestamp is 2022-07-06 20:19:45.812163 and E:/ml project/classification project/Wafer Fault Detection Project/Training_files/good_data/wafer_31012020_090811.csv readLogging timestamp is 2022-07-06 20:19:45.845166 and df createdLogging timestamp is 2022-07-06 20:19:45.852162 and filled null 0Logging timestamp is 2022-07-06 20:19:45.861168 and wafer names createdLogging timestamp is 2022-07-06 20:19:45.869162 and wafer names droppedLogging timestamp is 2022-07-06 20:19:45.878164 and Good/bad droppedLogging timestamp is 2022-07-06 20:19:45.886162 and unnmae droppedLogging timestamp is 2022-07-06 20:19:45.895163 and Index(['Sensor-1', 'Sensor-2', 'Sensor-3', 'Sensor-4', 'Sensor-5', 'Sensor-6',
+       'Sensor-7', 'Sensor-8', 'Sensor-9', 'Sensor-10',
+       ...
+       'Sensor-581', 'Sensor-582', 'Sensor-583', 'Sensor-584', 'Sensor-585',
+       'Sensor-586', 'Sensor-587', 'Sensor-588', 'Sensor-589', 'Sensor-590'],
+      dtype='object', length=590)Logging timestamp is 2022-07-06 20:19:45.908163 and transformed
