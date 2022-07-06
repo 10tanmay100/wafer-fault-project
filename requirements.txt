@@ -1,0 +1,16 @@
+pandas
+numpy
+seaborn
+matplotlib
+Flask
+flask
+kneed
+xgboost
+sklearn
+dvc
+gunicorn
+flask_cors
+mysql-connector-python
+mysql-connector
+imblearn
+sqlalchemy
