@@ -12,25 +12,38 @@ class prediction:
     def do_prediction(path):
         text=path.encode('unicode_escape').decode("ASCII").replace("\\\\","/").replace("\\","/")
         text=text.replace("x0c","f")
-
+        logg=logger("pred.txt")
         for files in os.listdir("/".join(text.split("/")[:len(text.split("/"))])+"/"):
+            logg.log(f'{"/".join(text.split("/")[:len(text.split("/"))])+"/"+files} read')
             df=pd.read_csv("/".join(text.split("/")[:len(text.split("/"))])+"/"+files)
+            logg.log("df created")
             df=df.fillna(0)
+            logg.log("filled null 0")
             scaler=pickle.load(file=open("/".join(text.split("/")[:text.split("/").index("Training_files")])+"/model/"+"scaler.pkl","rb"))
             prediction1=pickle.load(file=open("/".join(text.split("/")[:text.split("/").index("Training_files")])+"/model/"+"cluster1/logistics_py.pkl","rb"))
             prediction2=pickle.load(file=open("/".join(text.split("/")[:text.split("/").index("Training_files")])+"/model/"+"cluster2/logistics_py.pkl","rb"))
             wafer_names=df["Wafer_names"]
-            df.drop("Wafer_names",axis=1,inplace=True)
+            logg.log("wafer names created")
+            df=df.drop("Wafer_names",axis=1)
+            logg.log("wafer names dropped")
             if "Good/Bad" in df.columns:
-                df.drop("Good/Bad",axis=1,inplace=True)
+                df=df.drop("Good/Bad",axis=1)
+                logg.log('Good/bad dropped')
             else:
                 pass
             if "Unnamed: 0" in df.columns:
-                df.drop("Unnamed: 0",axis=1,inplace=True)
+                df=df.drop("Unnamed: 0",axis=1)
+                logg.log("unnmae dropped")
+            else:
+                pass
+            if 'Wafer_names.1' in df.columns:
+                df=df.drop("Wafer_names.1",axis=1)
             else:
                 pass
             colnames=df.columns
+            logg.log(colnames)
             df_new=pd.DataFrame(scaler.transform(df),columns=colnames)
+            logg.log("transformed")
             from sklearn.cluster import DBSCAN
             db=DBSCAN(eps=19,algorithm="brute")
             cluster_df=pd.DataFrame(db.fit_predict(df_new))
